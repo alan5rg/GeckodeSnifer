@@ -218,7 +218,7 @@ desde una isla en Brasil con notebooks y bananas. 🍌💻
 
 🚀 Instalación
 git clone https://github.com/alan5rg/GeckodeSnifer
-cd geckodesnifer
+cd GeckodeSnifer
 
 pip install PyQt5
 pip install qdarkstyle
