@@ -217,7 +217,7 @@ Equipo experimental de testing que explora bugs en la selva digital
 desde una isla en Brasil con notebooks y bananas. 🍌💻
 
 🚀 Instalación
-git clone https://github.com/tuusuario/geckodesnifer
+git clone https://github.com/alan5rg/GeckodeSnifer
 cd geckodesnifer
 
 pip install PyQt5
