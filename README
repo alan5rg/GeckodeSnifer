@@ -223,7 +223,8 @@ cd GeckodeSnifer
 pip install PyQt5
 pip install qdarkstyle
 ▶️ Ejecutar
-python geckodesnifer.py
+python GeckodeSnifer41.py
+
 🦎 Gecko Footprint
 GeckodeSnifer™ 4.1
 Team Cangurera
