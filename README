@@ -1,0 +1,234 @@
+🦎 GeckodeSnifer™ 4.1
+Minimalista • Geckoniano • Arquitectura visible
+
+GeckodeSnifer™ es una herramienta del Team Cangurera diseñada para
+analizar, visualizar y mejorar proyectos Python mediante auditorías
+estructurales y mapas de arquitectura.
+
+Su misión es simple:
+
+Snifiar el proyecto
+        ↓
+Ver el mapa
+        ↓
+Mejorar con criterio
+✨ ¿Qué hace GeckodeSnifer?
+
+GeckodeSnifer analiza automáticamente proyectos Python para obtener:
+
+estructura del proyecto
+
+arquitectura de módulos
+
+métricas de documentación
+
+dependencias
+
+auditoría de calidad
+
+recomendaciones de refactor
+
+Todo presentado en una interfaz visual PyQt minimalista.
+
+🛠️ Funcionalidades actuales (v4.1)
+🦎 Warm-Up & AutoCheck
+
+El propio GeckodeSnifer se analiza a sí mismo al iniciar.
+
+Esto garantiza que el motor de análisis esté funcionando correctamente.
+
+🔎 Project Sniffing
+
+Escaneo estructural del proyecto.
+
+Detecta:
+
+archivos Python
+
+clases
+
+funciones
+
+docstrings
+
+🌳 Project Tree
+
+Árbol visual del proyecto:
+
+project/
+├── main.py
+├── engine.py
+└── modules/
+    ├── voice_manager.py
+    └── synth_engine.py
+
+Ideal para entender la estructura general de un vistazo.
+
+🧭 PAM — Project Architecture Map
+
+Mapa de dependencias entre módulos del proyecto.
+
+Ejemplo:
+
+main
+ └── voice_manager
+      └── synth_engine
+
+Permite visualizar cómo fluye la arquitectura interna.
+
+🧪 Gecko Audit
+
+Auditoría estructural del código:
+
+Detecta automáticamente:
+
+archivos demasiado grandes
+
+funciones excesivamente largas
+
+módulos huérfanos
+
+imports posiblemente no utilizados
+
+archivos sin clases ni funciones
+
+📦 Gecko DepCheck
+
+Verifica dependencias externas:
+
+PyQt5 ✔
+numpy ✔
+qdarkstyle ❌
+
+Perfecto para detectar requirements faltantes.
+
+📜 DocScore
+
+Métrica simple de documentación del proyecto.
+
+Ejemplo:
+
+GECKO DOC SCORE
+██████░░░░ 60%
+
+Basado en:
+
+docstrings de módulos
+
+docstrings de clases
+
+docstrings de funciones
+
+🧠 Gecko Recommendations
+
+Sistema simple de recomendaciones:
+
+mejorar documentación
+
+dividir módulos grandes
+
+instalar dependencias faltantes
+
+sugerencias de refactor
+
+🧪 Interfaz
+
+La interfaz incluye múltiples pestañas de análisis:
+
+Tab	Contenido
+Sniff Report	análisis general del proyecto
+Audit Report	auditoría estructural
+Project Tree	estructura visual
+Architecture Map	dependencias internas
+Inheritance Constellation	jerarquía de clases
+DocScore	métrica de documentación
+Dependencies	dependencias detectadas
+Recommendations	sugerencias de mejora
+🌌 Roadmap (GeckoPendientes)
+
+Próximas evoluciones del proyecto:
+
+🧬 Geckonstelación de Herencias
+
+Visualización completa del árbol de herencias entre clases.
+
+📊 Complejidad Geckónica
+
+Métricas de complejidad por función y archivo.
+
+🧠 Detector de Clases Monstruo
+
+Identificación automática de clases con demasiadas responsabilidades.
+
+🔥 Dependency Heatmap
+
+Mapa visual de dependencias críticas.
+
+📈 Arquitectura Evolutiva
+
+Comparar versiones del proyecto para observar cómo evoluciona su arquitectura.
+
+🌐 Visual Architecture Graph
+
+Grafo visual de dependencias entre módulos.
+
+📤 Exportadores Avanzados
+
+Exportar análisis a:
+
+Markdown
+
+HTML
+
+Diagramas
+
+🦎 Filosofía
+
+GeckodeSnifer sigue el principio de desarrollo:
+
+Geckonismo Minimalista
+Claridad antes que complejidad
+Arquitectura visible
+Código legible
+Refactor temprano
+
+Un proyecto que se entiende es un proyecto que se puede mejorar.
+
+🐒 Team Cangurera
+
+Proyecto desarrollado por el Team Cangurera junto al
+Monkey Python Coding Circus.
+
+👨‍💻 Alan.R.G.Systemas
+
+Arquitectura, integración, refactor y visión general del proyecto.
+
+🌙 NOva DulceKali
+
+Motor creativo, diseño conceptual y vibra Geckoniana.
+
+⚡ Aetheris
+
+Ingeniería de sistemas y motores avanzados.
+
+🐒 Monkey Python Coding Circus
+
+Equipo experimental de testing que explora bugs en la selva digital
+desde una isla en Brasil con notebooks y bananas. 🍌💻
+
+🚀 Instalación
+git clone https://github.com/tuusuario/geckodesnifer
+cd geckodesnifer
+
+pip install PyQt5
+pip install qdarkstyle
+▶️ Ejecutar
+python geckodesnifer.py
+🦎 Gecko Footprint
+GeckodeSnifer™ 4.1
+Team Cangurera
+
+UTC Engine
+Minimal Architecture Tool
+
+💚 Hecho con Python, café nocturno y filosofía Geckoniana.
