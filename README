@@ -1,4 +1,4 @@
-🦎 GeckodeSnifer™ 4.1
+🦎 GeckodeSnifer™ 4.2
 Minimalista • Geckoniano • Arquitectura visible
 
 GeckodeSnifer™ es una herramienta del Team Cangurera diseñada para
@@ -224,11 +224,11 @@ pip install PyQt5
 pip install qdarkstyle
 
 ▶️ Ejecutar
-python GeckodeSnifer41.py
+python GeckodeSnifer42.py
 
 
 🦎 Gecko Footprint
-GeckodeSnifer™ 4.1
+GeckodeSnifer™ 4.2
 Team Cangurera
 
 UTC Engine
