@@ -1,6 +1,10 @@
 🦎 GeckodeSnifer™ 4.2
 Minimalista • Geckoniano • Arquitectura visible
 
+[![Python v3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/UI-PyQt5-green.svg)](https://pypi.org/project/PyQt5/)
+[![Ecosistema](https://img.shields.io/badge/Environment-Xubuntu%20%2F%20XFCE-orange.svg)](https://xubuntu.org/)
+
 GeckodeSnifer™ es una herramienta del Team Cangurera diseñada para
 analizar, visualizar y mejorar proyectos Python mediante auditorías
 estructurales y mapas de arquitectura.
